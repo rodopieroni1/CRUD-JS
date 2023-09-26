@@ -1,0 +1,18 @@
+{
+  "clientes": [
+    {
+      "nombre": "Rodrigo pieroni",
+      "email": "pieroni.rodrigo@gmail.com",
+      "telefono": "3854177958",
+      "empresa": "Comintel",
+      "id": 28
+    },
+    {
+      "nombre": "Claudia Esperguin",
+      "email": "claudiaes@htmail.com",
+      "telefono": "431440411441",
+      "empresa": "Estudio Alsina4",
+      "id": 29
+    }
+  ]
+}
